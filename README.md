@@ -1,8 +1,8 @@
 # EDA & ML
 
-An example of a typical exploratory data analysis process
+An example of a typical exploratory data analysis process and a machine learning prediction 
 
-and a machine learning prediction with LinearRegression, RandomForestRegressor, GradientBoosting and Multi-layer Perceptron
+with LinearRegression, RandomForestRegressor, GradientBoosting and Multi-layer Perceptron
 
 using Kaggle house prices data set: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 

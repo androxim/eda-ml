@@ -2,7 +2,7 @@
 
 An example of a typical exploratory data analysis process
 
-and a simple machine learning prediction with LinearRegression, RandomForest and GradientBoosting
+and a machine learning prediction with LinearRegression, RandomForestRegressor, GradientBoosting and Multi-layer Perceptron
 
 using Kaggle house prices data set: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
